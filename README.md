@@ -1,12 +1,15 @@
-# Hi, I'm Fer
+# Hi, I'm Fer 👋
 
-I am currently working as a Data Scientist at Despegar.com and finishing my PhD at the Institute of Biomedical Engineering at the University of Buenos Aires.
+## About Me
+I'm a Data Scientist at Despegar.com and a PhD candidate at the Institute of Biomedical Engineering, University of Buenos Aires. My passion lies in exploring the intersections of machine learning, automation, and problem-solving.
 
-I love researching and working with Machine Learning, as well as automating repetitive tasks and solving complex problems with simple solutions.
 
-### Current Research Interests:
+## 🌱 Current Research Interests
+- Code Performance Optimization (maybe Rust is a nice solution)
+- Causal Machine Learning
+- Game Theory
+- Reinforcement Learning
 
-- Code Performance (Rust is looking promising )
-- Causal machine learning.
-- Game theory
-- Reinforcement learning
+---
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss data science, machine learning, or any of my research interests!
