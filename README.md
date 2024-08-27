@@ -1,7 +1,7 @@
 # Hi, I'm Fer 👋
 
 ## About Me
-I'm a Data Scientist at Despegar.com and a PhD candidate at the Institute of Biomedical Engineering, University of Buenos Aires. My passion lies in exploring the intersections of machine learning, automation, and problem-solving.
+I'm a Senior Data Scientist at Despegar (the leading travel company in LATAM) and a PhD candidate at the Institute of Biomedical Engineering, University of Buenos Aires. My passion lies in exploring the intersections of machine learning, automation, and problem-solving.
 
 
 ## 🌱 Current Research Interests
