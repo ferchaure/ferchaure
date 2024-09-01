@@ -11,6 +11,7 @@ My passion lies in exploring the intersections of machine learning, automation, 
 - Causal Machine Learning
 - Game Theory
 - Reinforcement Learning
+- Agent-based simulation 
 
 ---
 
