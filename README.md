@@ -6,7 +6,8 @@ My passion lies in exploring the intersections of machine learning, automation, 
 
 
 ## 🌱 Current Research Interests
-- Code Performance Optimization (maybe Rust is a nice solution or Julia)
+- Code Performance Optimization
+  * Always thinking about porting Python and R to Julia or Rust
 - Causal Machine Learning
 - Game Theory
 - Reinforcement Learning
