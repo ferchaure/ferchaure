@@ -5,10 +5,15 @@ I'm a Senior Data Scientist at Despegar (the leading travel company in LATAM) an
 My passion lies in exploring the intersections of machine learning, automation, and problem-solving.
 
 
+## 🧑‍💻 Current Research
+- Conformal Prediction
+- Bayesian clustering of non-stationary data
+
 ## 🌱 Current Research Interests
 - Code Performance Optimization
-  * Always thinking about porting Python and R functions to Julia or Rust
+  * Always thinking about porting Python and R functions to C, Julia or Rust
 - Causal Machine Learning
+- Conformal prediction
 - Game Theory
 - Reinforcement Learning
 - Agent-based simulation 
