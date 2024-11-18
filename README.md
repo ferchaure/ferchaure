@@ -6,13 +6,12 @@ My passion lies in exploring the intersections of machine learning, automation, 
 
 
 ## 🧑‍💻 Current Research
-- Conformal Prediction
+- Causal Machine Learning
 - Bayesian clustering of non-stationary data
 
 ## 🌱 Current Research Interests
 - Code Performance Optimization
   * Always thinking about porting Python and R functions to C, Julia or Rust
-- Causal Machine Learning
 - Conformal prediction
 - Game Theory
 - Reinforcement Learning
