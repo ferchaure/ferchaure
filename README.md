@@ -5,13 +5,11 @@ I'm a Senior Data Scientist at Despegar (the leading travel company in LATAM). I
 
 
 ## 🧑‍💻 Current Research
-- Causal Machine Learning
 - Cortico-cortical evoked potentials
  
 ## 🌱 Current Research Interests
+- Causal Machine Learning
 - Code Performance Optimization
-  * Always thinking about porting Python and R functions to C, Julia or Rust
-- Conformal prediction
 - Game Theory
 - Reinforcement Learning
 - Agent-based simulation 
