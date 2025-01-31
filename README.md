@@ -1,18 +1,21 @@
 # Hi, I'm Fer 👋
 
 ## About Me
-I'm a Senior Data Scientist at Despegar (the leading travel company in LATAM). I completed my PhD in Engineering at the University of Buenos Aires, conducting research in neuroscience. As an engineer, I have developed methods and analytical tools for neuroscience research. My passion lies in exploring the intersections of machine learning, automation, and problem-solving.
+
+I completed my PhD in Engineering at the University of Buenos Aires, doing research in neuroscience, and I still do some scientific work on the side. My day job is as a Senior Data Scientist at Despegar (the top travel company in LATAM). As an engineer, I've developed methods and analytical tools for neuroscience research. I love exploring the intersections of math, machine learning, automation, and problem-solving.
 
 
 ## 🧑‍💻 Current Research
 - Cortico-cortical evoked potentials
+- Bayesian A/B testing
  
 ## 🌱 Current Research Interests
 - Causal Machine Learning
 - Code Performance Optimization
 - Game Theory
 - Reinforcement Learning
-- Agent-based simulation 
+- Agent-based simulation
+- Complex Systems
 
 ---
 
