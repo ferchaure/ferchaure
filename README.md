@@ -2,20 +2,19 @@
 
 ## About Me
 
-I completed my PhD in Engineering at the University of Buenos Aires, doing research in neuroscience, and I still do some scientific work on the side. My day job is as a Senior Data Scientist at Despegar (the top travel company in LATAM). As an engineer, I've developed methods and analytical tools for neuroscience research. I love exploring the intersections of math, machine learning, automation, and problem-solving.
+I completed my PhD in Engineering at the University of Buenos Aires, where I focused on developing analytical tools and methods for neuroscience research. These days, I’m a Data Scientist by day and a scientist by night—still doing some academic work on the side. I enjoy living at the intersection of math, machine learning, automation, and problem-solving.
 
 
 ## 🧑‍💻 Current Research
-- Cortico-cortical evoked potentials
-- Bayesian A/B testing
+- Agent-based simulation
+- Complex Systems
  
 ## 🌱 Current Research Interests
 - Causal Machine Learning
 - Code Performance Optimization
 - Game Theory
 - Reinforcement Learning
-- Agent-based simulation
-- Complex Systems
+
 
 ---
 
