@@ -3,18 +3,12 @@
 ## About Me
 
 I’m a Data Scientist at MercadoLibre (MELI) by day and a tech-lead on scientific projects by night. I hold a PhD in Engineering from the University of Buenos Aires, where I developed analytical tools and methods for neuroscience research. I enjoy living at the intersection of math, machine learning, automation, and problem-solving.
-
-
-## 🧑‍💻 Current Research
-- Agent-based simulation
-- Complex Systems
  
-## 🌱 Current Research Interests
-- Causal Machine Learning
-- Code Performance Optimization
-- Game Theory
-- Reinforcement Learning
-
+## Research Interests
+- Agent-based simulation
+- Data science methods for temporal and trajectory modeling
+- Complex Systems
+- Low level computing and operating systems
 
 ---
 
